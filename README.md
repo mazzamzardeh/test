@@ -11,8 +11,7 @@
       2. tow 
       3. three
 
-      
-      (image alt text )(link)
+    
 
      [link](https://www.kooora.com/
       )
